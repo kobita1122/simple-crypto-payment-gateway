@@ -1,0 +1,8 @@
+{
+  "name": "simple-crypto-payment-gateway",
+  "version": "1.0.0",
+  "description": "Blockchain Payment Gateway Repository",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
